@@ -1,4 +1,4 @@
-# Login-Logout-Selenium-
+# Login-Logout-Selenium-FB
 
 Implementing LogIn And Logout Functions In Selenium WebDriver
 Right now, We are learning some commonly used functions which can actually helps us to minimize our webdriver test case code size. As you know, You need to perform some actions (Example : Comparing Strings, Comparing Integers, Compare Double, And More Like This) many times during your test case execution so repeating same code In every test case Is not a good practice. You can create and common function In some common class and then call that function whenever required.
