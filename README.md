@@ -10,3 +10,14 @@ Supposing you are testing facebook application and you wants to Implement LogIn 
 Step 1 : Implement initData(), initBrowser(), and closeBrowser() functions In your CommonFunctions class as described In PREVIOUS POST.
 
 Step 2 : Copy paste bellow given LogIn() and LogOut() functions In your CommonFunctions class.
+
+Step 3 : Now Its time to call LogIn() and LogOut() functions In your webdriver test as bellow. Create class with name FBLogin and copy paste bellow given lines In It. Replace dummy user Id and password with your actual user Id and Password before running test.
+
+Now run your test and observe result. It will login In your account and then logout from It. You can Include your test activity between logIn() and logOut() functions.
+
+Now you can call logIn() and logOut() functions anywhere In your test or any of the test case. I hope you understand what I am trying to tell you.
+
+
+
+
+****source: https://www.software-testing-tutorials-automation.com/2014/06/implementing-login-and-logout-functions.html
